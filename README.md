@@ -8,7 +8,7 @@
 
 <br>
 
-> *late night coding, small progress, big dreams* 🌙
+> *vibes coding, small progress, big dihh* 🌙
 
 </div>
 
@@ -90,8 +90,8 @@ This repository is made to:
 
 ## Notes
 
-This project is still growing.  
-More exercises and mini projects will be added over time.
+Jika tidak ada surat untuk starla
+Masih ada surat untuk mas dika, anjay slebew, musik
 
 ---
 
