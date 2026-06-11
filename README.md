@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/badge/JavaScript-Learning-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Status-On%20Progress-22c55e?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Vibe%20%2B%20Coding-7c3aed?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Vibe-Coding-7c3aed?style=for-the-badge" />
 
 <br>
 
