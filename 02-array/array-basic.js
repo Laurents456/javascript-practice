@@ -1,5 +1,5 @@
-const characters = ["Gojo", "Luffy", "Naruto", "Levi"];
+const mybini = ["reze", "Nishimiya", "MieAyam", "kamu"];
 
-console.log(characters);
-console.log(characters[0]);
-console.log(`Total characters: ${characters.length}`);
+console.log(mybini);
+console.log(mybini[0]);
+console.log(`Total characters: ${mybini.length}`);
