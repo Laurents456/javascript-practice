@@ -1,5 +1,5 @@
 function introduce(name, skill) {
-  return `Hi, I'm ${name} and I'm learning ${skill}.`;
+  return `Woi, hai aku ${name} pls jgn hujat ak, ak pemula ${skill}.`;
 }
 
 console.log(introduce("Laurents", "JavaScript"));
