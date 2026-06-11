@@ -1,5 +1,3 @@
-// Belajar variable di JavaScript
-
 let nama = "Laurents";
 let umur = 18;
 let bahasa = "JavaScript";
